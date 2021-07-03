@@ -50,6 +50,10 @@ a:hover {
 	background-repeat: no-repeat;
 }
 
+.navbar-toggle .fa {
+	color: #fff;
+}
+
 header .navbar-white a {
 	color: #fff;
 	font-weight: 700;
